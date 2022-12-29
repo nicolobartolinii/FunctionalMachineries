@@ -1,5 +1,10 @@
 {
   "item.functionalmachineries.chrome_ingot": "Chrome Ingot",
   "item.functionalmachineries.raw_chrome_chunk": "Raw Chrome Chunk",
+
+  "block.functionalmachineries.chromite_ore": "Chromite Ore",
+  "block.functionalmachineries.deepslate_chromite_ore": "Deepslate Chromite Ore",
+  "block.functionalmachineries.chrome_block": "Chrome Block",
+
   "itemGroup.fmtab": "Functional Machineries"
 }
