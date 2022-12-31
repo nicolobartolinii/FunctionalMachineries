@@ -1,6 +1,12 @@
 {
   "item.functionalmachineries.chrome_ingot": "Chrome Ingot",
   "item.functionalmachineries.raw_chrome_chunk": "Raw Chrome Chunk",
+  "item.functionalmachineries.chrome_nugget": "Chrome Nugget",
+  "item.functionalmachineries.chrome_pickaxe": "Chrome Pickaxe",
+  "item.functionalmachineries.chrome_axe": "Chrome Axe",
+  "item.functionalmachineries.chrome_sword": "Chrome Sword",
+  "item.functionalmachineries.chrome_shovel": "Chrome Shovel",
+  "item.functionalmachineries.chrome_hoe": "Chrome Hoe",
 
   "block.functionalmachineries.chromite_ore": "Chromite Ore",
   "block.functionalmachineries.deepslate_chromite_ore": "Deepslate Chromite Ore",

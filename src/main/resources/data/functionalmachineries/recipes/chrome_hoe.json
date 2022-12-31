@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "functionalmachineries:chrome_ingot"
+    },
+    "X": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "##",
+    " X",
+    " X"
+  ],
+  "result": {
+    "item": "functionalmachineries:chrome_hoe"
+  }
+}

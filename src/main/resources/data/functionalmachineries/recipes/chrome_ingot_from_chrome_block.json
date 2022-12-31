@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "chrome_ingot",
+  "ingredients": [
+    {
+      "item": "functionalmachineries:chrome_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "functionalmachineries:chrome_ingot"
+  }
+}
