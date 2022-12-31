@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "functionalmachineries:chromite_ore",
+    "functionalmachineries:deepslate_chromite_ore",
+    "functionalmachineries:chrome_block"
+  ]
+}
